@@ -1,6 +1,6 @@
 # Table of contents
 
-* [信息收集](README.md)
+* [OSCP备考笔记](README.md)
 * [渗透测试](shen-tou-ce-shi.md)
 * [Page 1](page-1.md)
 
